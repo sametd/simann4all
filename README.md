@@ -1,2 +1,3 @@
-# simann4all
-Simulated Annealling Algorithm based on Netlib with some enhancements and a lot better usability. Written in Fortran 90.
+# simann_for_all
+
+This simulated annealing algorithm will become optimization base for docking and caspesa algorithms
